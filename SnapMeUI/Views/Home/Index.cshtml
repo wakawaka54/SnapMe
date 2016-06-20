@@ -1,0 +1,99 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<script src="~/Scripts/carousel/carousel.js"></script>
+
+<div class="row row-no-margins">
+    <div class="col-md-12 wrapper-landing-img">
+        <img class="landing-img" src="~/Content/images/index1.jpg" />
+
+        <span class="large-text landing-img-caption">
+            Advertise<br />
+            <span class="landing-img-caption-line-2 highlight">Right</span><br />
+            <span class="landing-img-caption-line-3">Again</span>
+        </span>
+    </div>
+    <div class="row">
+
+    </div>
+    <div class="row">
+        <div class="col-md-12 central-element">
+            <div class="first-section-wrapper">
+                <p class="section-text">About Our Company</p>
+                <h2>
+                    We are a full service Snapchat Geofilter creator firm.
+                </h2>
+            </div>
+            <div class="index-values">
+                <div class="row">
+                    <div class="col-xs-12 col-md-3 col-md-offset-3">
+                        <i class="fa fa-plane fa-5x index-values-icon"></i>
+                        <div class="index-value-text-wrapper">
+                            <p class="index-values-p">
+                                <span class="index-value-heading">What We Do</span><br />
+                                <span class="index-value-text">We are a three person design team</span>
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-md-3">
+                        <i class="fa fa-beer fa-5x index-values-icon"></i>
+                        <div class="index-value-text-wrapper">
+                            <p class="index-values-p">
+                                <span class="index-value-heading">Our Values</span><br />
+                                <span class="index-value-text">It's not over 'till your happy!</span>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-12 col-md-3 col-md-offset-3">
+                        <i class="fa fa-share fa-5x index-values-icon"></i>
+                        <div class="index-value-text-wrapper">
+                            <p class="index-values-p">
+                                <span class="index-value-heading">Shareable Reputation</span><br />
+                                <span class="index-value-text">Our work is top notch and shareable.</span>
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-md-3">
+                        <i class="fa fa-rocket fa-5x index-values-icon"></i>
+                        <div class="index-value-text-wrapper">
+                            <p class="index-values-p">
+                                <span class="index-value-heading">Our Team</span><br />
+                                <span class="index-value-text">Web developer, designer and customer service industry specialists!</span>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div id="slick-carousel" class="col-md-10">
+            <div>
+                <img class="carousel-img" src="~/Content/images/FilterA.png" />
+            </div>
+            <div>
+                <img class="carousel-img" src="~/Content/images/FilterB.png" />
+            </div>
+            <div>
+                <img class="carousel-img" src="~/Content/images/FilterC.png" />
+            </div>
+            <div>
+                <img class="carousel-img" src="~/Content/images/FilterD.png" />
+            </div>
+            <div>
+                <img class="carousel-img" src="~/Content/images/FilterE.png" />
+            </div>
+        </div>
+</div>
+
+<script>
+    $(document).ready(function(){
+        $('#slick-carousel').slick({
+            infinite: true,
+            dots: true
+        });
+    });
+</script>
