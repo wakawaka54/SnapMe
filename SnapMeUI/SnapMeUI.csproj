@@ -103,6 +103,7 @@
     <Content Include="Content\images\FilterD.png" />
     <Content Include="Content\images\FilterE.png" />
     <Content Include="Content\images\FilterF.png" />
+    <Content Include="Content\images\Filters-FullWidth.jpg" />
     <Content Include="Content\images\index1.jpg" />
     <Content Include="Content\Site.css" />
     <Content Include="Content\Slick\ajax-loader.gif" />

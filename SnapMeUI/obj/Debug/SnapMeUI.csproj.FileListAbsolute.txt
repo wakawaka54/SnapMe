@@ -64,3 +64,36 @@ E:\Alex Bello\New Google Drive\Documents\Visual Studios\SnapMe\SnapMeUI\SnapMeUI
 E:\Alex Bello\New Google Drive\Documents\Visual Studios\SnapMe\SnapMeUI\SnapMeUI\obj\Debug\SnapMeUI.csprojResolveAssemblyReference.cache
 E:\Alex Bello\New Google Drive\Documents\Visual Studios\SnapMe\SnapMeUI\SnapMeUI\obj\Debug\SnapMeUI.dll
 E:\Alex Bello\New Google Drive\Documents\Visual Studios\SnapMe\SnapMeUI\SnapMeUI\obj\Debug\SnapMeUI.pdb
+C:\Users\Alex Bello\Documents\GitHub\SnapMe\SnapMeUI\SnapMeUI\bin\roslyn\csc.exe
+C:\Users\Alex Bello\Documents\GitHub\SnapMe\SnapMeUI\SnapMeUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alex Bello\Documents\GitHub\SnapMe\SnapMeUI\SnapMeUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alex Bello\Documents\GitHub\SnapMe\SnapMeUI\SnapMeUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alex Bello\Documents\GitHub\SnapMe\SnapMeUI\SnapMeUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alex Bello\Documents\GitHub\SnapMe\SnapMeUI\SnapMeUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alex Bello\Documents\GitHub\SnapMe\SnapMeUI\SnapMeUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alex Bello\Documents\GitHub\SnapMe\SnapMeUI\SnapMeUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alex Bello\Documents\GitHub\SnapMe\SnapMeUI\SnapMeUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alex Bello\Documents\GitHub\SnapMe\SnapMeUI\SnapMeUI\bin\roslyn\vbc.exe
+C:\Users\Alex Bello\Documents\GitHub\SnapMe\SnapMeUI\SnapMeUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alex Bello\Documents\GitHub\SnapMe\SnapMeUI\SnapMeUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alex Bello\Documents\GitHub\SnapMe\SnapMeUI\SnapMeUI\bin\SnapMeUI.dll.config
+C:\Users\Alex Bello\Documents\GitHub\SnapMe\SnapMeUI\SnapMeUI\bin\SnapMeUI.dll
+C:\Users\Alex Bello\Documents\GitHub\SnapMe\SnapMeUI\SnapMeUI\bin\SnapMeUI.pdb
+C:\Users\Alex Bello\Documents\GitHub\SnapMe\SnapMeUI\SnapMeUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alex Bello\Documents\GitHub\SnapMe\SnapMeUI\SnapMeUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alex Bello\Documents\GitHub\SnapMe\SnapMeUI\SnapMeUI\bin\System.Web.Helpers.dll
+C:\Users\Alex Bello\Documents\GitHub\SnapMe\SnapMeUI\SnapMeUI\bin\System.Web.Mvc.dll
+C:\Users\Alex Bello\Documents\GitHub\SnapMe\SnapMeUI\SnapMeUI\bin\System.Web.Razor.dll
+C:\Users\Alex Bello\Documents\GitHub\SnapMe\SnapMeUI\SnapMeUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Alex Bello\Documents\GitHub\SnapMe\SnapMeUI\SnapMeUI\bin\System.Web.Webpages.dll
+C:\Users\Alex Bello\Documents\GitHub\SnapMe\SnapMeUI\SnapMeUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\Alex Bello\Documents\GitHub\SnapMe\SnapMeUI\SnapMeUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alex Bello\Documents\GitHub\SnapMe\SnapMeUI\SnapMeUI\bin\System.Web.Razor.xml
+C:\Users\Alex Bello\Documents\GitHub\SnapMe\SnapMeUI\SnapMeUI\bin\System.Web.Webpages.xml
+C:\Users\Alex Bello\Documents\GitHub\SnapMe\SnapMeUI\SnapMeUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Alex Bello\Documents\GitHub\SnapMe\SnapMeUI\SnapMeUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\Alex Bello\Documents\GitHub\SnapMe\SnapMeUI\SnapMeUI\bin\System.Web.Helpers.xml
+C:\Users\Alex Bello\Documents\GitHub\SnapMe\SnapMeUI\SnapMeUI\bin\System.Web.Mvc.xml
+C:\Users\Alex Bello\Documents\GitHub\SnapMe\SnapMeUI\SnapMeUI\obj\Debug\SnapMeUI.csprojResolveAssemblyReference.cache
+C:\Users\Alex Bello\Documents\GitHub\SnapMe\SnapMeUI\SnapMeUI\obj\Debug\SnapMeUI.dll
+C:\Users\Alex Bello\Documents\GitHub\SnapMe\SnapMeUI\SnapMeUI\obj\Debug\SnapMeUI.pdb

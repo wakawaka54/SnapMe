@@ -113,10 +113,42 @@
     background-color:yellow;
 }
 
-#slick-carousel {
-    margin:20px 20px 20px 20px
+.carousel {
+    white-space:nowrap;
+    overflow:hidden;
 }
 
 .carousel-img {
-    height:500px;
+    width:100%;
+    height:auto;
+}
+
+.pricing-table {
+    height:400px;
+    text-align:center;
+}
+
+.pricing-header {
+    font-size:2em;
+}
+
+.pricing-value {
+    font-size:1.0em;
+}
+
+.pricing-body {
+    margin-top:2vh;
+    font-size:1.2em;
+}
+
+.row-spacing-large {
+    height:15vh;
+}
+
+.row-spacing-medium {
+    height:10vh;
+}
+
+.row-spacing-small {
+    height:5vh;
 }
